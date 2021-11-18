@@ -1,0 +1,2 @@
+# aju
+My repository
