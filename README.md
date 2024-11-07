@@ -49,7 +49,7 @@ Projects created by aju to make it public
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aju_k_x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aju-k-alex)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2384DB29.svg?logo=WhatsApp&logoColor=white)](https://linkedin.com/in/aju-k-alex) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aju_k_x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aju-k-alex)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2384DB29.svg?logo=WhatsApp&logoColor=white)](https://wa.me/9178994873071?text=Hello%20sir) 
 
 
 <hr></hr>  
