@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="[https://i.ibb.co/0Cg9MJN/20210923-185508.jpg](https://ibb.co/0sqqvXk)""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="[[https://i.ibb.co/0Cg9MJN/20210923-185508.jpg](https://i.ibb.co/PDxx0YR/aju.jpg)](https://ibb.co/0sqqvXk)""width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="Aju" src="https://img.shields.io/badge/-Aju-black?&style=for-the-badge"></a>
 </p>
