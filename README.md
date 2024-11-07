@@ -34,7 +34,7 @@ Projects created by aju to make it public
 
 
 <h1 align="center">Hi, I'm Aju K Alex</h1>
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Student+from+India,+Kerala+...;I+am+a+Passionate+Engeener+.+.+." alt="Typing SVG" /></a></center>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Student+from+Kerala,+India+...;I+am+a+Passionate+Engeener+.+.+." alt="Typing SVG" /></a></center>
 
 
 # 💫 About Me:
